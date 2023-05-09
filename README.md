@@ -1,5 +1,5 @@
 # 👋 Hi there I'm kiksong.
-
+🆔 ID: kiksong | walls1717
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?logo=spring&logoColor=white)
@@ -8,8 +8,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-007096?logo=mariadb&logoColor=white)
 ---
-
-🆔 ID: kiksong | walls1717
 
 ## 💪 SKILL DESCRIPTIONS
 - Use **MySQL (MariaDB)**, **PostgreSQL**, **Redis**, and have worked with **MongoDB**, **CouchDB**, and **influxdb (TSDB)** databases.
