@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 ## 🔧 ENVIRONMENT
 OS:
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-DD4814?logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-purple?logo=centos&logoColor=white)
+
+IDE & Tools:
+![Intellig idea](https://img.shields.io/badge/-Intellig_idea-2270E0?logo=jetbrains&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 🧾 USED
 ![Java](https://img.shields.io/badge/-Java-lightgrey)
