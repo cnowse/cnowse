@@ -23,17 +23,17 @@ OS:
 IDE & Tools:
 ![Intellig idea](https://img.shields.io/badge/-Intellig_idea-2270E0?logo=jetbrains&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white)
 
 ## 🧾 USED
 ![Java](https://img.shields.io/badge/-Java-lightgrey)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-green)
-![Spring Cloud](https://img.shields.io/badge/-SpringCloud-green)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-green)
 ![Maven](https://img.shields.io/badge/-Maven-blue)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![Redis](https://img.shields.io/badge/-Redis-red)
-![Mybatis Plus](https://img.shields.io/badge/-MybatisPlus-9cf)
+![Mybatis Plus](https://img.shields.io/badge/-Mybatis_Plus-9cf)
 ![Netty](https://img.shields.io/badge/-Netty-brightgreen)
 
 ## 📈 STATS
