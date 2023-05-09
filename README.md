@@ -12,7 +12,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-007096?logo=mariadb&logoColor=white)
 ---
 
