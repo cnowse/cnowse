@@ -8,6 +8,26 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ---
 
+## 🔧 ENVIRONMENT
+OS:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-purple?logo=centos&logoColor=white)
+
+IDE & Tools:
+![Intellig idea](https://img.shields.io/badge/-Intellig_idea-2270E0?logo=jetbrains&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white)
+
+## 📈 STATS
+![GitHub Readme Stats][ReadmeStats-Image]
+
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=kiksong&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+
+## 🧚‍ VIEWS
+![Visitor Count](https://profile-counter.glitch.me/kiksong/count.svg)
+
+
 <!--
 **kiksong/kiksong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,25 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🔧 ENVIRONMENT
-OS:
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-purple?logo=centos&logoColor=white)
-
-IDE & Tools:
-![Intellig idea](https://img.shields.io/badge/-Intellig_idea-2270E0?logo=jetbrains&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white)
-
-## 🧾 USED
-
-
-## 📈 STATS
-![GitHub Readme Stats][ReadmeStats-Image]
-
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=kiksong&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
-
-## 🧚‍ VIEWS
-![Visitor Count](https://profile-counter.glitch.me/kiksong/count.svg)
