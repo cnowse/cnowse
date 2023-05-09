@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🧾 USED
+https://img.shields.io/badge/Java-v1.8-brightgreen
+
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
 
