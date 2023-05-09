@@ -1,11 +1,18 @@
 # 👋 Hi there I'm kiksong.
+
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?logo=spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-007096?logo=mariadb&logoColor=white)
 ---
+
+🆔 ID: kiksong | walls1717
+
+## 💪 SKILL DESCRIPTIONS
+- Use **MySQL (MariaDB)**, **PostgreSQL**, **Redis**, and have worked with **MongoDB**, **CouchDB**, and **influxdb (TSDB)** databases.
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -17,6 +24,9 @@ IDE & Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white)
+
+## 🌱 DISADVATAGES
+- I have not undergone systematic algorithm training, I need learn it;
 
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
