@@ -1,6 +1,8 @@
 # 👋 Hi there I'm kiksong.
 
+```
 🆔 ID: kiksong | walls1717
+```
 
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
