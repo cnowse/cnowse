@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 ## 🧾 USED
 ![Java](https://img.shields.io/badge/-Java-white)
+![Spring Boot](https://img.shields.io/badge/-Spring Boot-green)
+![Spring Cloud](https://img.shields.io/badge/-Spring Cloud-green)
+![Maven](https://img.shields.io/badge/-Maven-blue)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![Redis](https://img.shields.io/badge/-Redis-red)
 
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
