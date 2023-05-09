@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## 🧾 USED
-![Java](https://img.shields.io/badge/Java-v1.8-brightgreen)
+![Java]([https://img.shields.io/badge/Java-v1.8-brightgreen](https://img.shields.io/badge/-Java-white))
 
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
 
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=kiksong&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
 
-## 🧚‍♀️VIEWS
+## 🧚‍ VIEWS
 ![Visitor Count](https://profile-counter.glitch.me/kiksong/count.svg)
