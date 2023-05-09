@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
 
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=u-u-z&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=kiksong&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
