@@ -27,14 +27,12 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=Docker&logoColor=white)
 
 ## 🧾 USED
-![Java](https://img.shields.io/badge/-Java-lightgrey)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-green)
-![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-green)
-![Maven](https://img.shields.io/badge/-Maven-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
-![Redis](https://img.shields.io/badge/-Redis-red)
-![Mybatis Plus](https://img.shields.io/badge/-Mybatis_Plus-9cf)
-![Netty](https://img.shields.io/badge/-Netty-brightgreen)
+![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/-Spring_Cloud-6DB33F?logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
