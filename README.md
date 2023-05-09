@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🔧 ENVIRONMENT
+OS:
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-DD4814?logo=ubuntu&logoColor=white)
+
 ## 🧾 USED
 ![Java](https://img.shields.io/badge/-Java-lightgrey)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-green)
