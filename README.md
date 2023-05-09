@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🧾 USED
-![Java]([https://img.shields.io/badge/Java-v1.8-brightgreen](https://img.shields.io/badge/-Java-white))
+![Java](https://img.shields.io/badge/-Java-white)
 
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
