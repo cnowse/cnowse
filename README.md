@@ -40,7 +40,7 @@ IDE & Tools:
 [ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=cnowse&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
 
 ## 👀 VIEWS
-![](http://profile-counter.glitch.me/evilbutcher/count.svg)
+![](http://profile-counter.glitch.me/cnowse/count.svg)
 
 <!--
 **kiksong/kiksong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
