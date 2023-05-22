@@ -37,10 +37,10 @@ IDE & Tools:
 ## 📈 STATS
 ![GitHub Readme Stats][ReadmeStats-Image]
 
-[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=kiksong&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
+[ReadmeStats-Image]: https://github-readme-stats.vercel.app/api?username=cnowse&show_icons=true&bg_color=ffffff "GitHub Readme Stats"
 
 ## 🧚‍ VIEWS
-![Visitor Count](https://profile-counter.glitch.me/kiksong/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/cnowse/count.svg)
 
 
 <!--
