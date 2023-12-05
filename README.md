@@ -1,7 +1,7 @@
 # 👋 Hi there I'm Jeong Geol.
 
 ```
-🆔 ID: kiksong | walls1717 | cnowse | Jeong Geol
+🆔 ID: cnowse | kiksong | walls1717 | cnowse | Jeong Geol
 ```
 
 ![Java](https://img.shields.io/badge/-Java-F80000?logo=oracle&logoColor=white)
